@@ -71,4 +71,8 @@ Repository work:
 **git remote -v** - shows the link to the repository
 <br/>
 **--verbose** - shows more information
-**git push** - pushes the changes to the remote repository --- [Markdown Cheat Sheet A quick reference to the Markdown syntax](https://www.markdownguide.org/cheat-sheet/ "Guide to Markdown!")
+<br/>
+**git push** - pushes the changes to the remote repository
+<br/>
+---
+[Markdown Cheat Sheet A quick reference to the Markdown syntax](https://www.markdownguide.org/cheat-sheet/ "Guide to Markdown!")
