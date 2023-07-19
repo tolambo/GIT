@@ -74,5 +74,6 @@ Repository work:
 <br/>
 **git push** - pushes the changes to the remote repository
 <br/>
+<br/>
 ---
 [Markdown Cheat Sheet A quick reference to the Markdown syntax](https://www.markdownguide.org/cheat-sheet/ "Guide to Markdown!")
