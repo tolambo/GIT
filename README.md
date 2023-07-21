@@ -8,6 +8,7 @@ Basic commands:
 <br/>
 **~** - home directory
 <br/>
+---
 Novigation:
 <br/>
 **ls** - list directory contents
@@ -20,6 +21,7 @@ Novigation:
 <br/>
 **-a** - displays an expanded list, shows all hidden files and folders
 <br/>
+---
 Operations with directories and files:
 <br/>
 **touch** - creates a file
@@ -32,6 +34,7 @@ Operations with directories and files:
 <br/>
 **mv** - move
 <br/>
+---
 Operations with folders and files:
 <br/>
 **cat** - concatinate and print
@@ -42,12 +45,14 @@ Operations with folders and files:
 <br/>
 **rm -r** - remove recursive
 <br/>
+---
 Efficient work with the command line:
 <br/>
 **&&** - ampersand for multiple commands on one line
 <br/>
 **Tab** - auto-complete, double-tap lists commands
 <br/>
+---
 Repository work:
 <br/>
 **git init** - initialize the repository
